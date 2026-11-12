@@ -93,3 +93,4 @@ For transparency, here is what was modified from the original Chrome Web Store p
 > - **Claude**, **Anthropic**, and associated trademarks, logos, and original codebase assets are the intellectual property of **Anthropic, PBC**.
 > - This project is **not** affiliated with, endorsed by, or sponsored by Anthropic, PBC.
 > - Use of this extension must comply with applicable website terms of service and acceptable use guidelines.
+
